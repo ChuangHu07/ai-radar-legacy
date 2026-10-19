@@ -26,9 +26,8 @@ python -m pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/ChuangHu07/ai-radar.git
-cd ai-radar
-
+git clone https://github.com/ChuangHu07/ai-radar-legacy.git
+cd ai-radar-legacy
 -- Create a virtual environment:
 python -m venv .venv
 
